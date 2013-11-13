@@ -1,0 +1,11 @@
+bin/
+
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.DS_Store
